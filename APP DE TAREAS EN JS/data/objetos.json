@@ -1,0 +1,5 @@
+[
+  { "titulo": "Repasar JS", "estado": "Terminada" },
+  { "titulo": "Armar aplicación de tareas", "estado": "Procesando" },
+  { "titulo": "Ver inicio del mundial", "estado": "Pendiente" }
+]
